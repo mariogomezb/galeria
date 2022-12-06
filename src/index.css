@@ -1,0 +1,31 @@
+.titulo{
+  color:#ccc;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.color-titulo{
+  font-size: 50px;
+}
+
+.tarjeta{
+  color: #ccc;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagen{
+  width: 400px;
+}
+
+.footer{
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+}
+
